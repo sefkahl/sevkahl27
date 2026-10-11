@@ -148,6 +148,5 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=4000&pause=1000&color=00D9F5&center=true&vCenter=true&width=500&lines=THANKS+FOR+VISITING!+%F0%9F%92%9C;DON'T+FORGET+TO+LEAVE+A+%E2%AD%90" alt="Thanks" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9f5,50:8a2be2,100:ff2e97&height=160&section=footer&animation=fadeIn" alt="footer" />
 
 </div>
