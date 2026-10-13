@@ -18,15 +18,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2500&pause=1500&color=FF2E97&center=true&vCenter=true&width=600&height=50&lines=%F0%9F%91%BE+ABOUT+ME" alt="About" />
 
-</div>
 
-# 👾 SELAMAT DATANG DI GITHUB SAYA
-
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2200&pause=700&color=00F5A0&background=0D1117&multiline=true&repeat=false&width=640&height=300&lines=%E2%94%8C%E2%94%80%E2%94%80%28sevka%E3%89%BFgithub%29-%5B~%5D;%E2%94%94%E2%94%80%24+cat+about.txt;%F0%9F%91%A4+NAMA+%E2%96%B8+Sevka;%F0%9F%92%BC+ROLE+%E2%96%B8+Polyglot+Developer;%F0%9F%94%AD+PROJECT+%E2%96%B8+Tokoshop+%28Web%29;%F0%9F%8C%B1+LEARNING+%E2%96%B8+Teknologi+baru+setiap+hari;%F0%9F%A4%9D+STATUS+%E2%96%B8+Open+for+collaboration;%E2%9A%A1+MOTTO+%E2%96%B8+%22Code.+Learn.+Repeat.%22;%E2%94%94%E2%94%80%24+_" alt="about sevka terminal" />
-</a>
 
 </div>
 
