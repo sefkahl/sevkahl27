@@ -72,13 +72,13 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" alt="PHP, Laravel" />
 
-<br/><br/>
+<br/>
 
 **🗄️ Database**
 <br/>
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
 
-<br/><br/>
+<br/>
 
 **🧰 Tools**
 <br/>
@@ -117,7 +117,7 @@ Website toko online dengan halaman Login & Registrasi bergaya modern dan animasi
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=8B5CF6)
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-0D1117?style=flat-square&logo=fontawesome&logoColor=00F0FF)
 
-[![Repository](https://img.shields.io/badge/GitHub-Lihat_Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME/NAMA_REPO_TOKOSHOP)
+[![Repository](https://img.shields.io/badge/GitHub-Lihat_Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sevkahl27/sistem_jadwal_off)
 
 </td>
 <td width="50%" valign="top">
@@ -150,11 +150,11 @@ Mini-website statis tiga halaman (Beranda, Profil, Data) untuk usaha dagang semb
 <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=false&bg_color=0D1117&border_color=1E293B&border_radius=12&title_color=00F0FF&icon_color=8B5CF6&text_color=E5E7EB" height="170" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=false&bg_color=0D1117&border_color=1E293B&border_radius=12&title_color=00F0FF&text_color=E5E7EB" height="170" alt="Top Languages" />
 
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=USERNAME&theme=dark&background=0D1117&ring=00F0FF&fire=8B5CF6&currStreakNum=FFFFFF&currStreakLabel=00F0FF&sideNums=FFFFFF&sideLabels=E5E7EB&dates=9CA3AF&stroke=1E293B&border=1E293B&border_radius=12" alt="GitHub Streak" />
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0D1117&color=00F0FF&line=8B5CF6&point=FFFFFF&area=true&area_color=3B82F6&hide_border=true&radius=12&custom_title=Contribution%20Graph&title_color=00F0FF" width="100%" alt="Contribution Graph" />
 
