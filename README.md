@@ -13,12 +13,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,45:1E1B4B,100:0891B2&height=300&section=header&text=SEVKA&fontSize=96&fontColor=00F0FF&stroke=8B5CF6&strokeWidth=2&animation=twinkling&fontAlignY=38&font=Orbitron&desc=Web%20Developer%20%E2%80%A2%20Learner%20%E2%80%A2%20Builder&descAlignY=60&descSize=20&descColor=E5E7EB" width="100%" alt="SEVKA - Web Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,55:3B1F7A,100:0C5A80&height=300&section=header&text=SEVKA&fontSize=96&fontColor=38BDF8&stroke=8B5CF6&strokeWidth=2&animation=twinkling&fontAlignY=38&font=Orbitron&desc=Web%20Developer%20%E2%80%A2%20Learner%20%E2%80%A2%20Builder&descAlignY=60&descSize=20&descColor=E2E8F0" width="100%" alt="SEVKA - Web Developer" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&repeat=true&width=720&height=55&lines=Hi%2C+I%27m+Sevka;Web+Developer;Laravel+Developer;PHP+Developer;UI+Enthusiast">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=720&height=55&lines=Hi%2C+I%27m+Sevka;Web+Developer;Laravel+Developer;PHP+Developer;UI+Enthusiast">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3200&pause=900&color=6D28D9&center=true&vCenter=true&repeat=true&width=720&height=55&lines=Hi%2C+I%27m+Sevka;Web+Developer;Laravel+Developer;PHP+Developer;UI+Enthusiast">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3200&pause=900&color=3B82F6&center=true&vCenter=true&repeat=true&width=720&height=55&lines=Hi%2C+I%27m+Sevka;Web+Developer;Laravel+Developer;PHP+Developer;UI+Enthusiast" alt="Typing animation: Web Developer, Laravel Developer, PHP Developer, UI Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&repeat=true&width=720&height=55&lines=Hi%2C+I%27m+Sevka;Web+Developer;Laravel+Developer;PHP+Developer;UI+Enthusiast" alt="Typing animation: Web Developer, Laravel Developer, PHP Developer, UI Enthusiast" />
 </picture>
 
 **Pemula yang bersemangat membangun website modern, rapi, dan berguna.**
@@ -29,9 +29,11 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=PROFILE+VIEWS&color=0891B2&style=for-the-badge&labelColor=0D1117" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=USERNAME&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge&labelColor=0B1020" alt="Profile views" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:3B82F6,100:8B5CF6&height=2" width="100%" alt="divider" />
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2" width="100%" alt="divider" />
 
 </div>
 
@@ -40,60 +42,71 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=620&height=40&lines=%3E+npm+run+learn;%3E+git+commit+-m+%22keep+growing%22;%3E+status%3A+open+to+learn+%26+collaborate">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=94A3B8&center=true&vCenter=true&repeat=true&width=620&height=40&lines=%3E+npm+run+learn;%3E+git+commit+-m+%22keep+growing%22;%3E+status%3A+open+to+learn+%26+collaborate">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=6D28D9&center=true&vCenter=true&repeat=true&width=620&height=40&lines=%3E+npm+run+learn;%3E+git+commit+-m+%22keep+growing%22;%3E+status%3A+open+to+learn+%26+collaborate">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&repeat=true&width=620&height=40&lines=%3E+npm+run+learn;%3E+git+commit+-m+%22keep+growing%22;%3E+status%3A+open+to+learn+%26+collaborate" alt="Terminal typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=620&height=40&lines=%3E+npm+run+learn;%3E+git+commit+-m+%22keep+growing%22;%3E+status%3A+open+to+learn+%26+collaborate" alt="Terminal typing animation" />
 </picture>
 
 </div>
 
-- 👤 **Nama & Profesi** — Sevka, Web Developer pemula
-- 🌐 **Fokus** — Pengembangan web: tampilan (frontend) dan sisi server (backend)
-- 📚 **Sedang Dipelajari** — HTML, CSS, JavaScript, PHP, Laravel, dan MySQL
-- 🎯 **Tujuan Karier** — Menjadi programmer profesional yang bisa membangun aplikasi web yang bermanfaat
-- 💡 **Minat** — Pemrograman, desain antarmuka (UI), dan teknologi baru
-- 🌱 **Prinsip** — Belajar sedikit demi sedikit setiap hari, senang berkenalan dan belajar bersama
+<table width="100%">
+<tr>
+<td width="32%" valign="top">👤 <b>Nama &amp; Profesi</b></td>
+<td valign="top">Sevka, Web Developer pemula</td>
+</tr>
+<tr>
+<td valign="top">🌐 <b>Fokus</b></td>
+<td valign="top">Pengembangan web: tampilan (frontend) dan sisi server (backend)</td>
+</tr>
+<tr>
+<td valign="top">📚 <b>Sedang Dipelajari</b></td>
+<td valign="top">HTML, CSS, JavaScript, PHP, Laravel, dan MySQL</td>
+</tr>
+<tr>
+<td valign="top">🎯 <b>Tujuan Karier</b></td>
+<td valign="top">Menjadi programmer profesional yang bisa membangun aplikasi web yang bermanfaat</td>
+</tr>
+<tr>
+<td valign="top">💡 <b>Minat</b></td>
+<td valign="top">Pemrograman, desain antarmuka (UI), dan teknologi baru</td>
+</tr>
+<tr>
+<td valign="top">🌱 <b>Prinsip</b></td>
+<td valign="top">Belajar sedikit demi sedikit setiap hari, senang berkenalan dan belajar bersama</td>
+</tr>
+</table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:3B82F6,100:00F0FF&height=2" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2" width="100%" alt="divider" />
 </div>
 
 <h2 align="center" id="tech-stack">✦ TECH STACK ✦</h2>
 
+<table width="100%">
+<tr>
+<td width="32%" valign="middle">🎨 <b>Frontend</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" height="44" alt="HTML5, CSS3, JavaScript, Bootstrap" /></td>
+</tr>
+<tr>
+<td valign="middle">⚙️ <b>Backend</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" height="44" alt="PHP, Laravel" /></td>
+</tr>
+<tr>
+<td valign="middle">🗄️ <b>Database</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="44" alt="MySQL" /></td>
+</tr>
+<tr>
+<td valign="middle">🧰 <b>Tools</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="44" alt="Git, GitHub, Visual Studio Code" /></td>
+</tr>
+<tr>
+<td valign="middle">🖥️ <b>Operating System</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" height="44" alt="Linux Ubuntu" /></td>
+</tr>
+</table>
+
 <div align="center">
-
-**🎨 Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" alt="HTML5, CSS3, JavaScript, Bootstrap" />
-
-<br/><br/>
-
-**⚙️ Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" alt="PHP, Laravel" />
-
-<br/>
-
-**🗄️ Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
-
-<br/>
-
-**🧰 Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, Visual Studio Code" />
-
-<br/><br/>
-
-**🖥️ Operating System**
-<br/>
-<img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" alt="Linux Ubuntu" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:3B82F6,100:8B5CF6&height=2" width="100%" alt="divider" />
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2" width="100%" alt="divider" />
 </div>
 
 <h2 align="center" id="projects">✦ FEATURED PROJECTS ✦</h2>
@@ -103,62 +116,64 @@
   Mau menambah proyek? Salin satu blok <td>...</td> lalu ubah isinya.
 -->
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F172A,100:312E81&height=90&text=Tokoshop&fontSize=30&fontColor=00F0FF&fontAlignY=50" width="100%" alt="Tokoshop" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0B1020,100:3B1F7A&height=90&text=Tokoshop&fontSize=30&fontColor=38BDF8&fontAlignY=50" width="100%" alt="Tokoshop" />
 
 **🛒 Tokoshop**
 
 Website toko online dengan halaman Login & Registrasi bergaya modern dan animasi halus. Saat ini masih di tahap pengembangan tampilan (UI).
 
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=8B5CF6)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=8B5CF6)
-![Font Awesome](https://img.shields.io/badge/Font_Awesome-0D1117?style=flat-square&logo=fontawesome&logoColor=00F0FF)
+![PHP](https://img.shields.io/badge/PHP-0B1020?style=flat-square&logo=php&logoColor=38BDF8)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0B1020?style=flat-square&logo=bootstrap&logoColor=38BDF8)
+![Font Awesome](https://img.shields.io/badge/Font_Awesome-0B1020?style=flat-square&logo=fontawesome&logoColor=38BDF8)
 
-[![Repository](https://img.shields.io/badge/GitHub-Lihat_Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sevkahl27/sistem_jadwal_off)
+[![Repository](https://img.shields.io/badge/GitHub-Lihat_Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=E2E8F0)](https://github.com/sevkahl27/sistem_jadwal_off)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F172A,100:0E7490&height=90&text=Toko%20Sejahtera&fontSize=30&fontColor=00F0FF&fontAlignY=50" width="100%" alt="Toko Sejahtera" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0B1020,100:3B1F7A&height=90&text=Toko%20Sejahtera&fontSize=30&fontColor=38BDF8&fontAlignY=50" width="100%" alt="Toko Sejahtera" />
 
 **🏪 Toko Sejahtera**
 
 Mini-website statis tiga halaman (Beranda, Profil, Data) untuk usaha dagang sembako, dengan desain gelap modern serta tabel produk dan transaksi.
 
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=00F0FF)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=00F0FF)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=8B5CF6)
-![Font Awesome](https://img.shields.io/badge/Font_Awesome-0D1117?style=flat-square&logo=fontawesome&logoColor=00F0FF)
+![HTML5](https://img.shields.io/badge/HTML5-0B1020?style=flat-square&logo=html5&logoColor=38BDF8)
+![CSS3](https://img.shields.io/badge/CSS3-0B1020?style=flat-square&logo=css3&logoColor=38BDF8)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0B1020?style=flat-square&logo=bootstrap&logoColor=38BDF8)
+![Font Awesome](https://img.shields.io/badge/Font_Awesome-0B1020?style=flat-square&logo=fontawesome&logoColor=38BDF8)
 
-[![Repository](https://img.shields.io/badge/GitHub-Lihat_Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME/NAMA_REPO_TOKOSEJAHTERA)
+[![Repository](https://img.shields.io/badge/GitHub-Lihat_Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=E2E8F0)](https://github.com/USERNAME/NAMA_REPO_TOKOSEJAHTERA)
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:3B82F6,100:00F0FF&height=2" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2" width="100%" alt="divider" />
 </div>
 
 <h2 align="center" id="stats">✦ GITHUB STATS ✦</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=false&bg_color=0D1117&border_color=1E293B&border_radius=12&title_color=00F0FF&icon_color=8B5CF6&text_color=E5E7EB" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=false&bg_color=0D1117&border_color=1E293B&border_radius=12&title_color=00F0FF&text_color=E5E7EB" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=false&bg_color=0B1020&border_color=1E2A4A&border_radius=12&title_color=38BDF8&icon_color=8B5CF6&text_color=E2E8F0" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=false&bg_color=0B1020&border_color=1E2A4A&border_radius=12&title_color=38BDF8&text_color=E2E8F0" height="170" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=dark&background=0D1117&ring=00F0FF&fire=8B5CF6&currStreakNum=FFFFFF&currStreakLabel=00F0FF&sideNums=FFFFFF&sideLabels=E5E7EB&dates=9CA3AF&stroke=1E293B&border=1E293B&border_radius=12" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=USERNAME&theme=dark&background=0B1020&ring=38BDF8&fire=8B5CF6&currStreakNum=E2E8F0&currStreakLabel=38BDF8&sideNums=E2E8F0&sideLabels=94A3B8&dates=94A3B8&stroke=1E2A4A&border=1E2A4A&border_radius=12" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0D1117&color=00F0FF&line=8B5CF6&point=FFFFFF&area=true&area_color=3B82F6&hide_border=true&radius=12&custom_title=Contribution%20Graph&title_color=00F0FF" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0B1020&color=38BDF8&line=8B5CF6&point=E2E8F0&area=true&area_color=8B5CF6&hide_border=true&radius=12&custom_title=Contribution%20Graph&title_color=38BDF8" width="100%" alt="Contribution Graph" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:3B82F6,100:8B5CF6&height=2" width="100%" alt="divider" />
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2" width="100%" alt="divider" />
 
 </div>
 
@@ -168,23 +183,23 @@ Mini-website statis tiga halaman (Beranda, Profil, Data) untuk usaha dagang semb
 
 <!-- Hapus tombol yang tidak dipakai. Semua tulisan berhuruf besar di link adalah placeholder. -->
 
-[![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sevkahl27)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/085362102165)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/sefka-hulu-095193442?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![TikTok](https://img.shields.io/badge/TikTok-1F2937?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@szeka_27)
+[![GitHub](https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/sevkahl27)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0B1020?style=for-the-badge&logo=whatsapp&logoColor=38BDF8)](https://wa.me/085362102165)
+[![Instagram](https://img.shields.io/badge/Instagram-0B1020?style=for-the-badge&logo=instagram&logoColor=38BDF8)](https://www.linkedin.com/in/sefka-hulu-095193442?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![TikTok](https://img.shields.io/badge/TikTok-0B1020?style=for-the-badge&logo=tiktok&logoColor=38BDF8)](https://www.tiktok.com/@szeka_27)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/USERNAME_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sefkahulu840@gamil.com)
-[![Website](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://WEBSITE_KAMU)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/USERNAME_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:sefkahulu840@gamil.com)
+[![Website](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=E2E8F0)](https://WEBSITE_KAMU)
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=3500&pause=1200&color=00F0FF&center=true&vCenter=true&repeat=true&width=620&height=40&lines=Code.+Learn.+Repeat.;Setiap+baris+kode+adalah+satu+langkah+maju.">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&repeat=true&width=620&height=40&lines=Code.+Learn.+Repeat.;Setiap+baris+kode+adalah+satu+langkah+maju.">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=3500&pause=1200&color=6D28D9&center=true&vCenter=true&repeat=true&width=620&height=40&lines=Code.+Learn.+Repeat.;Setiap+baris+kode+adalah+satu+langkah+maju.">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&repeat=true&width=620&height=40&lines=Code.+Learn.+Repeat.;Setiap+baris+kode+adalah+satu+langkah+maju." alt="Code. Learn. Repeat." />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&repeat=true&width=620&height=40&lines=Code.+Learn.+Repeat.;Setiap+baris+kode+adalah+satu+langkah+maju." alt="Code. Learn. Repeat." />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:3B82F6,100:0B0F1A&height=140&section=footer&text=Terus%20belajar%2C%20terus%20berkembang&fontSize=20&fontColor=E5E7EB&fontAlignY=68&animation=fadeIn" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C5A80,45:3B1F7A,100:0B1020&height=140&section=footer&text=Terus%20belajar%2C%20terus%20berkembang&fontSize=20&fontColor=E2E8F0&fontAlignY=68&animation=fadeIn" width="100%" alt="footer" />
 
 </div>
