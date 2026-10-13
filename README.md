@@ -185,12 +185,12 @@ Mini-website statis tiga halaman (Beranda, Profil, Data) untuk usaha dagang semb
 
 [![GitHub](https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/sevkahl27)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0B1020?style=for-the-badge&logo=whatsapp&logoColor=38BDF8)](https://wa.me/085362102165)
-[![Instagram](https://img.shields.io/badge/Instagram-0B1020?style=for-the-badge&logo=instagram&logoColor=38BDF8)](https://www.linkedin.com/in/sefka-hulu-095193442?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Instagram](https://img.shields.io/badge/Instagram-0B1020?style=for-the-badge&logo=instagram&logoColor=38BDF8)](https://instagram.com/szeka__27?psln=djRmZ2k3c2R5NmNr)
 [![TikTok](https://img.shields.io/badge/TikTok-0B1020?style=for-the-badge&logo=tiktok&logoColor=38BDF8)](https://www.tiktok.com/@szeka_27)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/USERNAME_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/sefka-hulu-095193442?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Email](https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:sefkahulu840@gamil.com)
-[![Website](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=E2E8F0)](https://WEBSITE_KAMU)
+[![Website](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=E2E8F0)](https://deaafrizal)
 
 <br/>
 
