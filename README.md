@@ -1,4 +1,4 @@
-<!-- Ganti USERNAME dengan username GitHub kamu, dan EMAIL_KAMU@gmail.com dengan emailmu -->
+<!-- Ganti semua USERNAME dengan username GitHub kamu, dan EMAIL_KAMU@gmail.com dengan emailmu -->
 
 <div align="center">
 
@@ -7,6 +7,11 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=720&height=60&lines=Halo%2C+aku+Sevka+%F0%9F%91%8B;Aku+masih+belajar+coding+%F0%9F%92%BB;Cita-citaku+jadi+programmer+%F0%9F%9A%80;Ayo+belajar+bareng!+%E2%9C%A8" alt="Typing SVG" />
 </a>
+
+<br/><br/>
+
+<!-- Karakter melompat antar gedung (file: assets/hero.svg) -->
+<img src="assets/hero.svg" width="700" alt="Pahlawan melompat antar gedung" />
 
 <br/>
 
@@ -35,6 +40,17 @@
 ![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=00f5a0)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00d9f5)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00f5a0)
+
+</div>
+
+---
+
+## 🎧 Musik Favorit Saya
+
+<div align="center">
+
+<!-- Ganti GANTI_ID_PLAYLIST dengan ID playlist Spotify kamu -->
+[![Spotify](https://img.shields.io/badge/Dengarkan_Playlist_Saya-0d1117?style=for-the-badge&logo=spotify&logoColor=1DB954)](https://open.spotify.com/playlist/GANTI_ID_PLAYLIST)
 
 </div>
 
