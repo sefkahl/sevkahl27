@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,55:3B1F7A,100:0C5A80&height=300&section=header&text=SEVKA&fontSize=96&fontColor=38BDF8&stroke=8B5CF6&strokeWidth=2&animation=twinkling&fontAlignY=38&font=Orbitron&desc=Web%20Developer%20%E2%80%A2%20Learner%20%E2%80%A2%20Builder&descAlignY=60&descSize=20&descColor=E2E8F0" width="100%" alt="SEVKA - Web Developer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B1020,50:2E1065,100:0C4A6E&height=280&section=header&text=SEVKA&fontSize=92&fontColor=E2E8F0&stroke=38BDF8&strokeWidth=1&animation=fadeIn&fontAlignY=42&font=Orbitron&desc=WEB%20DEVELOPER%20%E2%80%A2%20LEARNER%20%E2%80%A2%20BUILDER&descAlignY=66&descSize=16&descColor=94A3B8" width="100%" alt="SEVKA - Web Developer" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=720&height=55&lines=Hi%2C+I%27m+Sevka;Web+Developer;Laravel+Developer;PHP+Developer;UI+Enthusiast">
@@ -25,7 +25,7 @@
 
 <br/>
 
-[**About**](#about) &nbsp;•&nbsp; [**Tech Stack**](#tech-stack) &nbsp;•&nbsp; [**Projects**](#projects) &nbsp;•&nbsp; [**Stats**](#stats) &nbsp;•&nbsp; [**Contact**](#contact)
+[**ABOUT**](#about) &nbsp;·&nbsp; [**TECH STACK**](#tech-stack) &nbsp;·&nbsp; [**PROJECTS**](#projects) &nbsp;·&nbsp; [**STATS**](#stats) &nbsp;·&nbsp; [**CONTACT**](#contact)
 
 <br/>
 
@@ -33,25 +33,25 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:8B5CF6,100:38BDF8&height=2" width="100%" alt="divider" />
 
 </div>
 
-<h2 align="center" id="about">✦ ABOUT ME ✦</h2>
+<h2 align="center" id="about">ABOUT ME</h2>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=94A3B8&center=true&vCenter=true&repeat=true&width=620&height=40&lines=%3E+npm+run+learn;%3E+git+commit+-m+%22keep+growing%22;%3E+status%3A+open+to+learn+%26+collaborate">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=6D28D9&center=true&vCenter=true&repeat=true&width=620&height=40&lines=%3E+npm+run+learn;%3E+git+commit+-m+%22keep+growing%22;%3E+status%3A+open+to+learn+%26+collaborate">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=620&height=40&lines=%3E+npm+run+learn;%3E+git+commit+-m+%22keep+growing%22;%3E+status%3A+open+to+learn+%26+collaborate" alt="Terminal typing animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=94A3B8&center=true&vCenter=true&repeat=true&width=620&height=40&lines=%3E+npm+run+learn;%3E+git+commit+-m+%22keep+growing%22;%3E+status%3A+open+to+learn+%26+collaborate">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=6D28D9&center=true&vCenter=true&repeat=true&width=620&height=40&lines=%3E+npm+run+learn;%3E+git+commit+-m+%22keep+growing%22;%3E+status%3A+open+to+learn+%26+collaborate">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=620&height=40&lines=%3E+npm+run+learn;%3E+git+commit+-m+%22keep+growing%22;%3E+status%3A+open+to+learn+%26+collaborate" alt="Terminal typing animation" />
 </picture>
 
 </div>
 
 <table width="100%">
 <tr>
-<td width="32%" valign="top">👤 <b>Nama &amp; Profesi</b></td>
+<td width="30%" valign="top">👤 <b>Nama &amp; Profesi</b></td>
 <td valign="top">Sevka, Web Developer pemula</td>
 </tr>
 <tr>
@@ -77,14 +77,14 @@
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:8B5CF6,100:38BDF8&height=2" width="100%" alt="divider" />
 </div>
 
-<h2 align="center" id="tech-stack">✦ TECH STACK ✦</h2>
+<h2 align="center" id="tech-stack">TECH STACK</h2>
 
 <table width="100%">
 <tr>
-<td width="32%" valign="middle">🎨 <b>Frontend</b></td>
+<td width="30%" valign="middle">🎨 <b>Frontend</b></td>
 <td valign="middle"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" height="44" alt="HTML5, CSS3, JavaScript, Bootstrap" /></td>
 </tr>
 <tr>
@@ -106,10 +106,10 @@
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:8B5CF6,100:38BDF8&height=2" width="100%" alt="divider" />
 </div>
 
-<h2 align="center" id="projects">✦ FEATURED PROJECTS ✦</h2>
+<h2 align="center" id="projects">FEATURED PROJECTS</h2>
 
 <!--
   Ganti link https://github.com/USERNAME/NAMA_REPO_... dengan link repository aslimu.
@@ -120,7 +120,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0B1020,100:3B1F7A&height=90&text=Tokoshop&fontSize=30&fontColor=38BDF8&fontAlignY=50" width="100%" alt="Tokoshop" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0B1020,100:2E1065&height=90&text=Tokoshop&fontSize=30&fontColor=38BDF8&fontAlignY=50" width="100%" alt="Tokoshop" />
 
 **🛒 Tokoshop**
 
@@ -135,7 +135,7 @@ Website toko online dengan halaman Login & Registrasi bergaya modern dan animasi
 </td>
 <td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0B1020,100:3B1F7A&height=90&text=Toko%20Sejahtera&fontSize=30&fontColor=38BDF8&fontAlignY=50" width="100%" alt="Toko Sejahtera" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0B1020,100:2E1065&height=90&text=Toko%20Sejahtera&fontSize=30&fontColor=38BDF8&fontAlignY=50" width="100%" alt="Toko Sejahtera" />
 
 **🏪 Toko Sejahtera**
 
@@ -153,10 +153,10 @@ Mini-website statis tiga halaman (Beranda, Profil, Data) untuk usaha dagang semb
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:8B5CF6,100:38BDF8&height=2" width="100%" alt="divider" />
 </div>
 
-<h2 align="center" id="stats">✦ GITHUB STATS ✦</h2>
+<h2 align="center" id="stats">GITHUB STATS</h2>
 
 <div align="center">
 
@@ -173,11 +173,11 @@ Mini-website statis tiga halaman (Beranda, Profil, Data) untuk usaha dagang semb
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:38BDF8&height=2" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:8B5CF6,100:38BDF8&height=2" width="100%" alt="divider" />
 
 </div>
 
-<h2 align="center" id="contact">✦ LET'S CONNECT ✦</h2>
+<h2 align="center" id="contact">LET'S CONNECT</h2>
 
 <div align="center">
 
@@ -200,6 +200,6 @@ Mini-website statis tiga halaman (Beranda, Profil, Data) untuk usaha dagang semb
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&repeat=true&width=620&height=40&lines=Code.+Learn.+Repeat.;Setiap+baris+kode+adalah+satu+langkah+maju." alt="Code. Learn. Repeat." />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C5A80,45:3B1F7A,100:0B1020&height=140&section=footer&text=Terus%20belajar%2C%20terus%20berkembang&fontSize=20&fontColor=E2E8F0&fontAlignY=68&animation=fadeIn" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0C4A6E,50:2E1065,100:0B1020&height=140&section=footer&text=Terus%20belajar%2C%20terus%20berkembang&fontSize=20&fontColor=E2E8F0&fontAlignY=68&animation=fadeIn" width="100%" alt="footer" />
 
 </div>
