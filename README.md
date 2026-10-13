@@ -22,7 +22,7 @@
 
 </div>
 
-<div align="center">
+<div align="">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
 
@@ -33,7 +33,7 @@
 </div>
 
 ### 🧠 Bahasa Pemrograman
-<div align="center">
+<div align="">
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
