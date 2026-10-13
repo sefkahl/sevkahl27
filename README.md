@@ -168,13 +168,13 @@ Mini-website statis tiga halaman (Beranda, Profil, Data) untuk usaha dagang semb
 
 <!-- Hapus tombol yang tidak dipakai. Semua tulisan berhuruf besar di link adalah placeholder. -->
 
-[![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/NOMOR_WA)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME_IG)
-[![TikTok](https://img.shields.io/badge/TikTok-1F2937?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@USERNAME_TIKTOK)
+[![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sevkahl27)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/085362102165)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/szeka__27?psln=djRmZ2k3c2R5NmNr)
+[![TikTok](https://img.shields.io/badge/TikTok-1F2937?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@szeka_27)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/USERNAME_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL_KAMU@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sefkahulu840@gamil.com)
 [![Website](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://WEBSITE_KAMU)
 
 <br/>
