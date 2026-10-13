@@ -170,7 +170,7 @@ Mini-website statis tiga halaman (Beranda, Profil, Data) untuk usaha dagang semb
 
 [![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sevkahl27)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/085362102165)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/szeka__27?psln=djRmZ2k3c2R5NmNr)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/sefka-hulu-095193442?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![TikTok](https://img.shields.io/badge/TikTok-1F2937?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@szeka_27)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/USERNAME_LINKEDIN)
